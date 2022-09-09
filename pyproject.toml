@@ -7,7 +7,7 @@ authors = ["jakecoffman <jake@jakecoffman.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 fastapi = "0.79.1"
-toml = {git = "ssh://git@github.com/uiri/toml", rev = "0.10.1"}
+toml = {git = "https://github.com/uiri/toml", rev = "0.10.1"}
 #sentry-processors = {git = "ssh://git@github.com/gr4vy/sentry.git", rev = "v0.8.0"}
 
 [tool.poetry.dev-dependencies]
