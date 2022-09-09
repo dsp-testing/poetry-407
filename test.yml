@@ -1,0 +1,7 @@
+job:
+  package_manager: pip
+  allowed_updates:
+    - update-type: all
+  source:
+    provider: github
+    repo: dsp-testing/poetry-407
